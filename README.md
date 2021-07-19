@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @OrlykM
+- 👋 Hi, I’m Maxim
 - 👀 I’m interested in Backend Web Scrappers
-- 🌱 I’m currently learning Python libs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at 
+- 🌱 I’m currently learning Python libs for web scrapping like : bs4, selenium etc.
+- 📫 You can contact me at:
 - Instagram: https://www.instagram.com/orlykhub/
 - Telegram: https://t.me/MaxOrlyk
 - Gmail: orlianskyimaxim@gmail.com
