@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Maxim
+- 👋 Hi, I’m Maksym
 - 📫 You can contact me at:
-- Instagram: https://www.instagram.com/orlykhub/
+- Instagram: https://www.instagram.com/maksimka.orlyk/
 - Telegram: https://t.me/MaxOrlyk
 - Gmail: orlianskyimaxim@gmail.com
                         
