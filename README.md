@@ -7,7 +7,7 @@
 Participant of competitions on platforms:
 - CodeForces: https://codeforces.com/profile/MaximOrlianskyi
 - LeetCode: https://leetcode.com/MaximOrlianskyi18
-
+- Kaggle: https://www.kaggle.com/MaximOrlianskyi
 <!---
 OrlykM/OrlykM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
