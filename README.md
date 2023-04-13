@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Maksym
 - 📫 You can contact me at:
-- Instagram: https://www.instagram.com/maksimka.orlyk/
-- Telegram: https://t.me/MaxOrlyk
 - Job Mail: orlianskyi.maksym@gmail.com 
 - Cooperation Mail: orlianskyimaxim@gmail.com
 
