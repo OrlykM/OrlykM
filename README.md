@@ -1,14 +1,3 @@
-- 👋 Hi, I’m Maksym
-- 📫 You can contact me at:
-- Job Mail: orlianskyi.maksym@gmail.com 
-- Cooperation Mail: orlianskyimaxim@gmail.com
-
-Participant of competitions on platforms:
-- CodeForces: https://codeforces.com/profile/MaximOrlianskyi
-- LeetCode: https://leetcode.com/MaximOrlianskyi18
-- Kaggle: https://www.kaggle.com/MaximOrlianskyi
-
-# 💫 About Me:
 - 👋 Hi, I’m Maksym<br>- 📫 You can contact me at:<br>- Job Mail: orlianskyi.maksym@gmail.com <br>- Cooperation Mail: orlianskyimaxim@gmail.com<br><br>Participant of competitions on platforms:<br>- CodeForces: https://codeforces.com/profile/MaximOrlianskyi<br>- LeetCode: https://leetcode.com/MaximOrlianskyi18<br>- Kaggle: https://www.kaggle.com/MaximOrlianskyi
 
 
