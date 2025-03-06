@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Maksym<br>- 📫 You can contact me at:<br>- Job Mail: orlianskyi.maksym@gmail.com <br>- Cooperation Mail: orlianskyimaxim@gmail.com<br><br>Participant of competitions on platforms:<br>- CodeForces: https://codeforces.com/profile/MaximOrlianskyi<br>- LeetCode: https://leetcode.com/MaximOrlianskyi19<br>- Kaggle: https://www.kaggle.com/MaximOrlianskyi
+- 👋 Hi, I’m Maksym<br>- 📫 You can contact me at:<br>- Job Mail: orlianskyi.maksym@gmail.com <br><br>Participant of competitions on platforms:<br>- CodeForces: https://codeforces.com/profile/MaximOrlianskyi<br>- LeetCode: https://leetcode.com/MaximOrlianskyi19<br>- Kaggle: https://www.kaggle.com/MaximOrlianskyi
+- Employee at: EPAM Systems
+- Role: Junior Data Scientist
 
 
 # 💻 Tech Stack:
